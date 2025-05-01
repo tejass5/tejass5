@@ -8,13 +8,13 @@
 - - Agile practices and project management using Jira
 
 - 💞️ I’m looking to collaborate on
-- - Agile software engineering projects
-- - DevOps automation and infrastructure-as-code setups
-- - Event-driven or message-queue-based systems (Kafka, RabbitMQ)
-- - Internally used tools that improve developer productivity
+ - Agile software engineering projects
+ - DevOps automation and infrastructure-as-code setups
+ - Event-driven or message-queue-based systems (Kafka, RabbitMQ)
+ - Internally used tools that improve developer productivity
 - 📫 How to reach me
-- - 📧 Email: work.tejas@hotmail.com
-- - 💼 LinkedIn: https://www.linkedin.com/in/tejas-sharma-1253671b8/
+ - 📧 Email: work.tejas@hotmail.com
+ - 💼 LinkedIn: https://www.linkedin.com/in/tejas-sharma-1253671b8/
 
 - ⚡ Fun fact: WiFi connection more stable than my life choices 😮‍💨😮‍💨
 
