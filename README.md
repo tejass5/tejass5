@@ -6,8 +6,8 @@ I'm currently exploring the vast world of tech and working towards landing my ne
 
 ## 👀 Interests
 - Finding meaningful work where I can grow and contribute
-- Building resilient and scalable software systems
-- Creating tools that improve developer experience
+- Building resilient and scalable software systems and products
+- Creating experiences that improves developing
 
 ---
 
